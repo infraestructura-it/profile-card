@@ -2,5 +2,5 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'http://engjurado.tech',
+  site: 'https://infraestructura-it.github.io/profile-card/',
 });
